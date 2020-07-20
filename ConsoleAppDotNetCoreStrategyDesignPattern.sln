@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppDotNetCoreStrategyDesignPattern", "ConsoleAppDotNetCoreStrategyDesignPattern\ConsoleAppDotNetCoreStrategyDesignPattern.csproj", "{2E95FE46-5B41-4474-8F07-A190BB85DC8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E95FE46-5B41-4474-8F07-A190BB85DC8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E95FE46-5B41-4474-8F07-A190BB85DC8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E95FE46-5B41-4474-8F07-A190BB85DC8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E95FE46-5B41-4474-8F07-A190BB85DC8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7DAC6F4-8FB6-4B96-B4EF-70FAC2BE91B7}
+	EndGlobalSection
+EndGlobal
